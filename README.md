@@ -1,6 +1,6 @@
 # lab2py
 
-Tugas pertemuan ke 4 Bahasa Pemrograman
+Tugas pertemuan ke 5 Bahasa Pemrograman
 
 Nama : Ramadhan Ardi Iman Prakoso
 
@@ -22,4 +22,4 @@ Prodi : Teknik Informatika
 
 ![Gambar 3](img/3.png)
 
-#SELESAI
+# SELESAI
